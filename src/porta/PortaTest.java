@@ -18,7 +18,7 @@ public class PortaTest {
 
         System.out.println("The status of the door:");
 
-        System.out.println("Dimensions");
+        System.out.println("\nDimensions");
         System.out.println("---DmX: "+porta.getDimX());
         System.out.println("---DmY: "+porta.getDimY());
         System.out.println("---DmZ: "+porta.getDimZ());
